@@ -30,7 +30,7 @@ for any question and ending:</p>
 	<li><a href="https://youtu.be/KLG-jC1fh28">Git and Github<a/></li>
 </ul>
 
-## Tools
+## Tools list
 
 <ul>
 	<li>Backend - Optional IDEs to Java 
@@ -38,8 +38,7 @@ for any question and ending:</p>
 			<li>Spring Tool Suite (STS)</li>
 			<li>Eclipse</li>
 			<li>intellij</li>
-		</ul>
-		
+		</ul>	
 	</li>
 	<li>Backend - Optional IDEs to SQL 
 		<ul>
@@ -58,7 +57,6 @@ for any question and ending:</p>
 			<li>Insomnia</li>
 		</ul>
 	</li>
-
 	<li>Deployment and scaled hosting
 		<ul>
 			<li>Netlify</li>
@@ -68,9 +66,20 @@ for any question and ending:</p>
 </ul>
 
 
+
+
+
+
+
+
+
+
+
+
+
 ## Devices
 
-![image](<a href="https://imgbox.com/GqBOeACb" target="_blank"><img src="https://images2.imgbox.com/83/ab/GqBOeACb_o.png" alt="image host"/></a>)
+<a href="https://imgbox.com/GqBOeACb" target="_blank"> <img src="https://images2.imgbox.com/83/ab/GqBOeACb_o.png"/></a>
 
 
 
