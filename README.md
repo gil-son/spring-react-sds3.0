@@ -17,7 +17,7 @@ for any question and ending:</p>
 	<li>* [x] 2021-03-05 'Spring' and 'React' in business</li>
 	<li>* [x] 2021-05-05 Going deeper into practice</li>
 	<li>* [x] 2021-07-05 The career map</li>
-	<li>* [ ] 2021-09-05 Doubts and Closing</li>
+	<li>* [x] 2021-09-05 Doubts and Closing</li>
 </ul>
 
 ## Technical knowledge
