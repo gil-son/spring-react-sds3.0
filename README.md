@@ -70,7 +70,7 @@ for any question and ending:</p>
 
 # Layers Pattern
 
-<img src="https://raw.githubusercontent.com/devsuperior/bds-assets/main/sds/camadas.png"/>
+<a href="https://imgbox.com/PAUEeYER" target="_blank"><img src="https://images2.imgbox.com/45/77/PAUEeYER_o.png" alt="image host"/></a>
 
 
 ## Devices
